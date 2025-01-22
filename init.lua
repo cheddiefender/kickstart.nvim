@@ -107,6 +107,7 @@ vim.opt.smartcase = true
 vim.opt.termguicolors = true
 vim.opt.background = 'dark'
 vim.opt.signcolumn = 'yes'
+vim.opt.wrap = false
 
 -- Make line numbers default
 vim.opt.number = true
